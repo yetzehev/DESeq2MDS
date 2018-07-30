@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1532985519383.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "6F11A91A",
+    "lastKnownWriteTime" : 1532988003,
+    "last_content_update" : 1532988003020,
+    "path" : "~/DESeq2MDS.Rproj/R/plotMDS.R",
+    "project_path" : "R/plotMDS.R",
+    "properties" : {
+        "cursorPosition" : "15,40",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
